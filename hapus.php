@@ -1,4 +1,4 @@
 <?php 
 
-	echo "Penghapusan data";
+	echo "Penghapusan data"; //Konflik muncul pls
 	echo "Revisi pertama";
